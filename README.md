@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amSeseng
+- 👀 I’m interested in c++, python, ai development.
+- 🌱 I’m currently learning c++.
+- 📫 How to reach me: discord (@am_seseng).
+- 😄 Pronouns: he/him
